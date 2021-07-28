@@ -1,6 +1,11 @@
 # Juliacon 2021 BoF: Building a Chemistry and Materials Science Ecosystem in Julia
 
-This repo contains some notes and records from this BoF session! PR's to update it are welcome, but please get involved with the conversations and development efforts too (see below)!
+This repo contains some notes and records from this BoF session!
+PR's to update it are welcome, but please get involved with the conversations and development efforts too (see below)!
+
+See also:
+* [Poll results](poll_results.md)
+* [Package list](packages.md)
 
 ## Staying in touch
 
@@ -28,6 +33,3 @@ Several concepts for generic interfaces were proposed, which I've split out into
 * [AbstractTrajectory.jl](abstracttrajectory.md)
 * [AbstractBasisSet.jl](abstractbasisset.md)
 * [AbstractAtomicPotentials.jl](abstractatomicpotentials.md)
-
-    
-
