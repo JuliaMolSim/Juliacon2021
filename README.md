@@ -24,13 +24,10 @@ This repo contains some notes and records from this BoF session! PR's to update 
 
 Several concepts for generic interfaces were proposed, which I've split out into separate documents...
 
-* AbstractStructure.jl? --> see `abstractstructure.md`
-
-* AbstractTrajectory.jl? --> see `abstracttrajectory.md`
-
-* AbstractBasisSet.jl --> see `abstractbasisset.md`
-
-* AbstractAtomicPotentials.jl --> see `abstractatomicpotentials.md`
+* [AbstractStructure.jl](abstractstructure.md)
+* [AbstractTrajectory.jl](abstracttrajectory.md)
+* [AbstractBasisSet.jl](abstractbasisset.md)
+* [AbstractAtomicPotentials.jl](abstractatomicpotentials.md)
 
     
 
