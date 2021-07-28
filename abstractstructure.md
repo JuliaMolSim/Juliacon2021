@@ -3,7 +3,6 @@
 Idea is to create a generalized interface that simulation packages could all hook into, potentially with multiple "backends" that use e.g. ASE, rdkit, etc.
 
 * What is needed?
-
   * atomic/particles positions
   * atomic/particles kind (not only atomic number if you want to support coarse-grained simulations, or different ions, or different isotopes, …)
   * periodic or not?
@@ -29,7 +28,6 @@ Idea is to create a generalized interface that simulation packages could all hoo
 * associated visualization tools? yes please
 
 * Possible consumers
-
   * visualisation
   * IO
   * follow-up simulations (e.g. MD)
@@ -37,21 +35,15 @@ Idea is to create a generalized interface that simulation packages could all hoo
   * DataBase of SMILES and Identifiers [ChemicalIdentifiers.jl](https://github.com/longemen3000/ChemicalIdentifiers.jl )
 
 * Possible implementations
-
   * ASE
   * chemfiles
   * RDKit ([RDKitMinimalLib.jl](https://github.com/eloyfelix/RDKitMinimalLib.jl) provides direct access to RKit without using PyCall)
 
 * Selling point / goals:
-
   * Composability between existing packages
-
   * Modularity rather than large and complicated packages
-
   * Automatic differentiation / sensitivity analysis through the full pipeline
-
   * Rapid development: Same code structure for simplified problems and full-fletched applications
-
   * Easy and unified introspection
 
     
