@@ -35,3 +35,5 @@ I'm sure this list is not exhaustive – feel free to add to it! :smiley:
 * [Chemfiles](https://github.com/chemfiles/Chemfiles.jl) Read and write files used in computational chemistry. This package contains binding to the corresponding C++ library
 * [Xtals.jl](https://github.com/SimonEnsemble/Xtals.jl) read/write structure files (crystal-focused), generate bond graphs
 * [RDKitMinimalLib.jl](https://github.com/eloyfelix/RDKitMinimalLib.jl) Unofficial wraps for RDKit. With RDKit you can do everything.
+* [Nonbonded.jl](https://github.com/sergio-santos-group/Nonbonded.jl) 
+
